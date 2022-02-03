@@ -63,6 +63,5 @@ public class Cliente {
 		Cliente other = (Cliente) obj;
 		return Objects.equals(id, other.id);
 	}
-			
 
 }
